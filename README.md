@@ -5,7 +5,7 @@
 A simple text editor having functionalities as open, save, new and print
 It can also copy, cut and paste the selected text
 
-## Tools
+## Technologies Used
 
 ### Java
 ### Java Swing
